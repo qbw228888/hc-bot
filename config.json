@@ -1,17 +1,17 @@
 {
-    # gocq的请求ip+端口，域名也可
+    // gocq的请求ip+端口，域名也可
     "HttpRequestUrl":"",
-    # 和风apiKey
+    // 和风apiKey
     "WeatherApiKey":"",
-    # 百度翻译id和key
+    // 百度翻译id和key
     "BaiduTranslateAppId":"",
     "BaiduTranslateKey": "",
-    # 生成名字的apiKey
+    // 生成名字的apiKey
     "TianJuApiKey":"",
-    # mongodb链接url
+    // mongodb链接url
     "MongoUrl": "",
-    # 初始大成功
+    // 初始大成功
     "GreatSuccess": 3,
-    # 初始大失败
+    // 初始大失败
     "GreatFail": 98
 }
